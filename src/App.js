@@ -52,7 +52,7 @@ function App() {
             <Route path="/rq-super-heroes" element={<RQSuperHeroesPage />} />
             <Route path="/rq-super-heroes/:id" element={<RQSuperHeroePage />} />
             <Route path="/rq-parallel" element={<RQParallelPage />} />
-            <Route path="/rq-dynamic" element={<DynamicQueryPage heroeIds={[1, 3]} />} />
+            <Route path="/rq-dynamic" element={<DynamicQueryPage heroIds={[1, 3]} />} />
             <Route path="/rq-dependent" element={<DependentQueryPage email="khaled88ebdelli@gmail.com" />} />
             <Route path="/rq-pagination" element={<RQPaginatedPage />} />
             <Route path="/rq-infinit" element={<RQInfinitPage />} />
