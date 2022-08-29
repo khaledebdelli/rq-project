@@ -38,44 +38,9 @@
       "alterEgo": "Princess Diana"
     },
     {
-      "name": "hero 4",
-      "alterEgo": "hqssdqd",
-      "id": 4
-    },
-    {
-      "name": "qsdqsd",
-      "alterEgo": "qsdqsd",
-      "id": 5
-    },
-    {
       "name": "test invalidate",
       "alterEgo": "invalidate",
-      "id": 6
-    },
-    {
-      "name": "kjhkjhkj",
-      "alterEgo": "nnbbghg",
-      "id": 7
-    },
-    {
-      "name": "dqsdqsd",
-      "alterEgo": "qqsdqsd",
-      "id": 8
-    },
-    {
-      "name": "ddddd",
-      "alterEgo": "qsdqsd",
-      "id": 9
-    },
-    {
-      "name": "sdsds",
-      "alterEgo": "sdsdsd",
-      "id": 10
-    },
-    {
-      "name": "hawawaw",
-      "alterEgo": "hiwaaw",
-      "id": 11
+      "id": 4
     }
   ],
   "friends": [
